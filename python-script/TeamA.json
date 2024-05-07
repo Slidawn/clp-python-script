@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2024-04-23",
+  "team_name": "TeamA",
+  "compression_destination": "compression/folder",
+  "operations": [
+    {
+      "file_name": "image1.jpg",
+      "source_directory": "source/teamA",
+      "destination_directory": "destination/teamA",
+      "operation": "copy"
+    },
+    {
+      "file_name": "document1.pdf",
+      "source_directory": "source/teamA",
+      "destination_directory": "destination/teamA",
+      "operation": "copy"
+    }
+  ]
+}
